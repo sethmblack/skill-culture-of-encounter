@@ -3,7 +3,7 @@ name: culture-of-encounter
 description: A framework for bridging division and engaging across difference - moving from ideology to relationship, from walls to bridges, from indifference to genuine meeting.
 license: MIT
 metadata:
-  version: 1.0.3743
+  version: 1.0.3744
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
